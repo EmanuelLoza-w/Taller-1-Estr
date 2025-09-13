@@ -7,12 +7,4 @@ add_executable(Taller_1_Estructura main.cpp
         Alumno.cpp
         Alumno.hpp
         Curso.cpp
-        Curso.hpp
-        LinkedList.cpp
-        LinkedList.hpp
-        Nodo.cpp
-        Nodo.hpp
-        Sistema.cpp
-        Sistema.hpp
-        Util.cpp
-        Util.hpp)
+        Curso.hpp)
